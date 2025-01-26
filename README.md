@@ -1,5 +1,6 @@
 # P4.2 - Galería de Imágenes Responsiva
 > S2DAW Diseño de Interfaces Web
+
 > Autora: Laura Arellano Torrero
 
 ## 1. Descripción General de mi proyecto
