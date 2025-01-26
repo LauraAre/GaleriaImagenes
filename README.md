@@ -1,6 +1,6 @@
 # P4.2 - Galería de Imágenes Responsiva
 > S2DAW Diseño de Interfaces Web
-> Autora: Laura Arellano Torrero
+ > Autora: Laura Arellano Torrero
 
 ## 1. Descripción General de mi proyecto
 He tomado la decisión de crear  una galería de imágenes dedicada a fotos de cielos.
